@@ -1,4 +1,4 @@
-Hi everyone! This is my ECG ailment predictor I designed. This took a lot of work, so if you do happen to stumble across this and want to use it, please remember to cite my name.
+Hi everyone! This is my ECG ailment predictor I designed. This took a lot of work, so if you do happen to stumble across this and want to use it, please remember to cite my username.
 
 I did all my data prep and analysis in the "ECG_prepAndAnalysis.ipynb" file, while everything concerning the models and AWS deployment was done in the "Sagemaker SKlearn.ipynb" file.
 
